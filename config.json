@@ -1,0 +1,22 @@
+{
+  "champion": "auto",
+  "minimap": {
+    "monitor": 1,
+    "left": 1684,
+    "top": 844,
+    "size": 236
+  },
+  "capture_fps": 5,
+  "hearing_radius": 2500,
+  "context": "lol-custom-friends",
+  "detection": {
+    "match_threshold": 0.7,
+    "icon_diameter": 0,
+    "icon_crop": 0
+  },
+  "map": {
+    "width": 14870,
+    "height": 14980
+  },
+  "death_detection": true
+}
